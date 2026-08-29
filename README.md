@@ -260,8 +260,6 @@ I enjoy working with **Python, Java, C/C++, MATLAB/Simulink, APIs and automation
 
 </div>
 
-> ⚠️ I intentionally use lightweight GitHub badges instead of the usual third-party contribution/stat cards. They are much less likely to break with API rate limits or show **“failed to fetch resources.”**
-
 ---
 
 ## 🧠 A FEW THINGS I'M INTO
