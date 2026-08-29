@@ -57,13 +57,6 @@ Modeled and simulated symmetrical/unsymmetrical faults in a DG-integrated microg
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Venom893&show_icons=true&theme=default&hide_title=false" alt="Yuvraj's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venom893&layout=compact&theme=default" alt="Top languages"/>
-</p>
-
 ---
 
 ### 🏆 Certifications
