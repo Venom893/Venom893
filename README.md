@@ -10,7 +10,7 @@
 
 ### About Me
 
-- 🎓 B.Tech, Electrical & Electronics Engineering (2026)
+- 🎓 B.Tech, Electrical Engineering (2026)
 - ⚡ Hands-on, tapeout-style experience across the semiconductor design stack — from RTL to signed-off GDSII
 - 🛠️ Recently took an 8-bit MAC accelerator through a complete **RTL-to-GDSII** physical design flow on the open-source **SkyWater Sky130** PDK — 100 MHz timing closure, DRC-clean, LVS device-verified
 - 🔬 Also designed and behaviorally modeled a **GGNMOS ESD protection clamp** on a 90nm CMOS process in Cadence Virtuoso / Spectre
