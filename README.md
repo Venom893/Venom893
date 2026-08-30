@@ -16,56 +16,46 @@
 
 </div>
 
-```text
-[SYSTEM BOOT] Initializing profile.exe ...
-[ OK ] Loading engineer_profile.dat
-[ OK ] Mounting /dev/silicon
-[ OK ] Compiling curiosity.c ......... done
-[ OK ] Linking experience.o + caffeine.o
-> Welcome, visitor. This profile is interactive — pick a path below.
-```
-
 <div align="center">
 
-<a href="#-whoami"><img src="https://img.shields.io/badge/▶%20WHOAMI-0F172A?style=for-the-badge"></a>
-<a href="#-stat-sheet--my-toolbox"><img src="https://img.shields.io/badge/🧬%20STAT%20SHEET-0F172A?style=for-the-badge"></a>
-<a href="#-quest-log--things-ive-built"><img src="https://img.shields.io/badge/🗺️%20QUEST%20LOG-0F172A?style=for-the-badge"></a>
-<a href="#-achievements-unlocked"><img src="https://img.shields.io/badge/🏅%20ACHIEVEMENTS-0F172A?style=for-the-badge"></a>
-<a href="#-establish-connection"><img src="https://img.shields.io/badge/📡%20CONNECT-0F172A?style=for-the-badge"></a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT-0F172A?style=for-the-badge"></a>
+<a href="#-skills--tools"><img src="https://img.shields.io/badge/SKILLS-0F172A?style=for-the-badge"></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0F172A?style=for-the-badge"></a>
+<a href="#-certifications--achievements"><img src="https://img.shields.io/badge/CERTIFICATIONS-0F172A?style=for-the-badge"></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/CONNECT-0F172A?style=for-the-badge"></a>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
-## ⚡ `whoami`
+## 👋 About Me
 
-> **Electrical Engineering graduate** curious about the journey from a transistor-level idea to physical silicon.
+> **Electrical Engineering graduate** exploring the journey from a transistor-level idea to physical silicon.
 
-I like exploring the space where **circuits, RTL, verification and physical design** meet.
+I like working in the space where **circuits, RTL, verification, and physical design** meet.
 
 ```text
 Circuit → RTL → Verify → Synthesize → Place & Route → GDSII → Silicon
 ```
 
-🧠 **My rule:** don't just make it work — understand *why* it works.
+**My approach:** don't just make it work — understand *why* it works.
 
 <details>
-<summary>🪪 <b>Character Sheet</b> — click to view stats</summary>
+<summary><b>📋 Quick facts</b> — click to expand</summary>
 <br/>
 
 | | |
 |---|---|
-| **Class** | Digital ASIC Physical Design / Analog-Mixed-Signal IC Engineer |
-| **Specialization** | RTL-to-GDSII · ESD Protection Circuits |
-| **Current Level** | Fresher — XP maxed on curiosity, ready to grind on real silicon |
-| **Weapon of Choice** | A terminal with 40 tabs open |
-| **Status Effect** | Permanently caffeinated |
+| **Focus** | Digital ASIC Physical Design · Analog/Mixed-Signal IC Design |
+| **Specialization** | RTL-to-GDSII flows · ESD protection circuit design |
+| **Status** | Entry-level, actively looking — Physical Design / RTL-SoC / Analog-Mixed-Signal roles |
+| **Philosophy** | Hands-on, tapeout-style projects — real signoff data, not tutorials |
 
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
-## 🔬 WHAT I'M EXPLORING
+## 🔬 What I'm Exploring
 
 <table>
 <tr>
@@ -94,7 +84,7 @@ Circuit → RTL → Verify → Synthesize → Place & Route → GDSII → Silico
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
-## 🧬 STAT SHEET — My Toolbox
+## 🛠 Skills & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,matlab,linux,docker,git,github&perline=9" />
@@ -114,20 +104,12 @@ Circuit → RTL → Verify → Synthesize → Place & Route → GDSII → Silico
 <img src="https://img.shields.io/badge/SkyWater%20Sky130-B91C1C?style=for-the-badge" />
 </p>
 
-```text
-Digital Physical Design    ▓▓▓▓▓▓▓▓▓░  90 XP
-Analog / Mixed-Signal      ▓▓▓▓▓▓▓▓░░  80 XP
-RTL & Verification         ▓▓▓▓▓▓▓▓░░  80 XP
-EDA Scripting (Tcl/Python) ▓▓▓▓▓▓▓░░░  70 XP
-Patience w/ Vendor Tools   ▓▓▓▓▓▓▓▓▓▓  MAX (had to add an extra bar)
-```
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
-## 🗺️ QUEST LOG — Things I've Built
+## 🚀 Featured Projects
 
 <details>
-<summary><b>🔋 Quest 1 — Low-Power MAC — RTL → GDSII</b> &nbsp; <i>[COMPLETED ✅]</i></summary>
+<summary><b>🔋 Low-Power MAC Accelerator — RTL to GDSII</b> &nbsp; ✅ <i>Completed</i></summary>
 <br/>
 
 A 32-bit MAC/accumulator taken through a complete RTL-to-GDSII flow on the open-source SkyWater Sky130 PDK.
@@ -146,10 +128,10 @@ A 32-bit MAC/accumulator taken through a complete RTL-to-GDSII flow on the open-
 </details>
 
 <details>
-<summary><b>⚡ Quest 2 — GGNMOS ESD Protection Cell</b> &nbsp; <i>[COMPLETED ✅]</i></summary>
+<summary><b>⚡ GGNMOS ESD Protection Cell</b> &nbsp; ✅ <i>Completed</i></summary>
 <br/>
 
-Transistor-level ESD protection exploration on a **90nm gpdk090 PDK**.
+Transistor-level ESD protection design on a **90nm gpdk090 PDK**.
 
 **Highlights:** Cadence Virtuoso • Spectre • SPICE • Verilog-A • Snapback • HBM
 
@@ -166,7 +148,7 @@ HBM = 2 kV
 </details>
 
 <details>
-<summary><b>🌐 Quest 3 — 13-Bus DG-Integrated Microgrid</b> &nbsp; <i>[COMPLETED ✅]</i></summary>
+<summary><b>🌐 13-Bus DG-Integrated Microgrid</b> &nbsp; ✅ <i>Completed</i></summary>
 <br/>
 
 MATLAB/Simulink study of fault behavior in a distributed-generation microgrid.
@@ -194,7 +176,7 @@ MATLAB/Simulink study of fault behavior in a distributed-generation microgrid.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
-## 🏅 ACHIEVEMENTS UNLOCKED
+## 📜 Certifications & Achievements
 
 🎓 **Maven Silicon** — VLSI – System on Chip (SoC) Design
 📘 **Simplilearn SkillUp** — VLSI Design Course
@@ -202,10 +184,10 @@ MATLAB/Simulink study of fault behavior in a distributed-generation microgrid.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
-## 🎮 A LITTLE MORE ABOUT ME
+## 🌱 Beyond the Bench
 
 <details>
-<summary>👀 Click to reveal — side quests</summary>
+<summary>Click to expand</summary>
 <br>
 
 ```text
@@ -221,7 +203,7 @@ MATLAB/Simulink study of fault behavior in a distributed-generation microgrid.
 </details>
 
 <details>
-<summary>🧭 Where I'm heading — the next chapter</summary>
+<summary>Where I'm heading</summary>
 <br>
 
 **Electrical Engineering → VLSI → SoC / IC Design → Silicon**
@@ -232,7 +214,7 @@ I'm building depth across multiple levels of the hardware stack rather than trea
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
-## 📡 ESTABLISH CONNECTION
+## 📡 Let's Connect
 
 <div align="center">
 
@@ -255,7 +237,7 @@ sounds interesting, let's talk. ⚡
 
 ### ⚡ Think → Design → Simulate → Verify → Implement → Silicon
 
-<sub>Built with ❤️, way too much coffee, and a healthy respect for what OpenROAD logs can teach you at 2 AM.</sub>
+<sub>Thanks for stopping by — always glad to talk chip design.</sub>
 
 </div>
 
