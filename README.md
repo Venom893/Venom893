@@ -1,182 +1,213 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=220&section=header&text=Yuvraj%20Mishra&fontSize=55&fontColor=58A6FF&fontAlignY=38&desc=Analog%20%26%20Mixed-Signal%20IC%20Design%20%7C%20Digital%20ASIC%20Physical%20Design%20%7C%20VLSI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=YUVRAJ%20MISHRA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=RTL+%E2%86%92+Synthesis+%E2%86%92+Floorplan+%E2%86%92+Place+%26+Route+%E2%86%92+GDSII+%F0%9F%8E%AF;Taping+out+silicon%2C+one+design+rule+at+a+time+%E2%9A%A1;Open-Source+Chip+Design+%7C+SkyWater+Sky130;Cadence+Virtuoso+%7C+Spectre+%7C+SPICE+%7C+Verilog-A" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=36BCF7&center=true&vCenter=true&width=720&height=45&lines=Electrical+Engineering+Graduate;VLSI+%7C+SoC+%7C+IC+Design;RTL+%E2%86%92+Synthesis+%E2%86%92+Physical+Design;Building+my+way+towards+silicon+%E2%9A%A1)](https://git.io/typing-svg)
 
-<br/>
+<a href="https://github.com/Venom893"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/yuvraj-mishra-2u"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:yuvimishra5154@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<a href="https://www.linkedin.com/in/yuvraj-mishra-2u">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:yuvimishra5154@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Venom893/Low-Power-MAC-Sky130--RTL-to-GDSII">
-  <img src="https://img.shields.io/badge/View-Featured%20Project-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/Open%20to%20Work-FF6B00?style=for-the-badge&logo=target&logoColor=white"/>
+<br><br>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Venom893&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Venom893?style=for-the-badge&logo=github&color=58A6FF&labelColor=161B22"/>
+<img src="https://komarev.com/ghpvc/?username=Venom893&style=for-the-badge&color=2563EB&label=PROFILE+VISITS">
+<img src="https://img.shields.io/github/followers/Venom893?style=for-the-badge&color=2563EB&labelColor=0F172A&logo=github&label=FOLLOWERS">
+<img src="https://img.shields.io/github/stars/Venom893/Low-Power-MAC-Sky130--RTL-to-GDSII?style=for-the-badge&color=2563EB&labelColor=0F172A&label=%E2%98%85%20FLAGSHIP%20PROJECT">
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
-## 👋 About Me
+## ⚡ `whoami`
 
-I'm an Electrical Engineering graduate who fell down the semiconductor rabbit hole and never climbed back out. I like taking a design from an idea on paper all the way to something that could actually be manufactured on silicon — and I like it even more when I have to debug a weird tool error at 2 AM to get there.
+> **Electrical Engineering graduate** curious about the journey from a transistor-level idea to physical silicon.
 
-```
-🔭 Currently building   →  Full RTL-to-GDSII digital ASIC flows on open-source EDA tools
-🎯 Recently shipped      →  8-bit MAC accelerator, signed off with 0 DRC violations & LVS match
-🔬 Also into             →  Analog / mixed-signal IC design & ESD protection circuits
-💬 Ask me about          →  Physical design, Sky130, Cadence Virtuoso, or why my terminal has 40 tabs open
-📫 Reach me at           →  yuvimishra5154@gmail.com
-⚡ Fun fact              →  I've spent more hours reading OpenROAD logs than Netflix, and I'm not mad about it
+I like exploring the space where **circuits, RTL, verification and physical design** meet.
+
+```text
+Circuit → RTL → Verify → Synthesize → Place & Route → GDSII → Silicon
 ```
 
-<br/>
+🧠 **My rule:** don't just make it work — understand *why* it works.
 
-## 🚀 Featured Work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
+
+## 🔬 WHAT I'M EXPLORING
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-### 🔹 [Low-Power 8-bit MAC Accelerator — RTL to GDSII (Sky130)](https://github.com/Venom893/Low-Power-MAC-Sky130--RTL-to-GDSII)
-
-A full digital ASIC flow, start to finish — not a simulation, an actual physical chip layout.
-
-`SystemVerilog` `Yosys` `OpenROAD` `Magic` `Netgen` `KLayout` `Sky130`
-
-<details>
-<summary>📊 <b>Click to see the numbers</b></summary>
-<br/>
-
-| Metric | Result |
-|---|---|
-| ⏱️ Timing closure | 100 MHz, +2.40 ns slack |
-| ⚡ Total power | 0.864 mW |
-| 📐 Core area | 5,062 µm² @ 16% utilization |
-| ✅ DRC | 0 violations |
-| ✅ LVS | 431 / 431 devices matched |
-
-</details>
+### ⚡ VLSI / IC Design
+![](https://img.shields.io/badge/-Analog%20%26%20Mixed--Signal-2E5090?style=flat-square) <br/>
+![](https://img.shields.io/badge/-CMOS%20%26%20Transistor--Level-2E5090?style=flat-square) <br/>
+![](https://img.shields.io/badge/-ESD%20Protection-2E5090?style=flat-square) <br/>
+![](https://img.shields.io/badge/-SPICE%20%2F%20Spectre-2E5090?style=flat-square) <br/>
+![](https://img.shields.io/badge/-Verilog--A-2E5090?style=flat-square)
 
 </td>
-</tr>
-<tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-### 🔹 [GGNMOS ESD Protection Cell](https://github.com/Venom893/GGNMOS-ESD-Protection-Cadence)
-
-Built a Gate-Grounded NMOS ESD clamp on a 90nm PDK, then discovered the compact model couldn't capture snapback behavior — so I built a custom Verilog-A macro-model to fix it myself.
-
-`Cadence Virtuoso` `Spectre` `Verilog-A` `SPICE`
-
-<details>
-<summary>📊 <b>Click to see the numbers</b></summary>
-<br/>
-
-| Metric | Result |
-|---|---|
-| ⚡ Trigger voltage (Vt1) | 9.0 V @ 3.98 mA |
-| 🛡️ Holding voltage (Vh) | 5.35 V @ 20.4 mA |
-| 💥 HBM stress test | 2kV verified, within 1% of DC-extracted Vh |
-
-</details>
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### 🔹 [Fault Detection in 13-Bus DG-Integrated Microgrid](https://github.com/Venom893/DG-Fault-Detection)
-
-Modeled symmetrical and unsymmetrical grid faults to study how distributed generation changes fault behavior on a power network.
-
-`MATLAB` `Simulink`
+### 🧩 Digital / SoC
+![](https://img.shields.io/badge/-SystemVerilog%20%2F%20Verilog-1E88E5?style=flat-square) <br/>
+![](https://img.shields.io/badge/-RTL%20Design-1E88E5?style=flat-square) <br/>
+![](https://img.shields.io/badge/-Synthesis-1E88E5?style=flat-square) <br/>
+![](https://img.shields.io/badge/-Timing%20Analysis-1E88E5?style=flat-square) <br/>
+![](https://img.shields.io/badge/-RTL--to--GDSII-1E88E5?style=flat-square)
 
 </td>
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
+
+## 🛠️ MY TOOLBOX
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,matlab,linux,docker,git,github&perline=9" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SystemVerilog-1E88E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Verilog-546E7A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cadence%20Virtuoso-CC0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spectre-7B1FA2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SPICE-1565C0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Yosys-37474F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenROAD-2E7D32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Magic-37474F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Netgen-37474F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KLayout-2E7D32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SkyWater%20Sky130-B91C1C?style=for-the-badge" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
+
+## 🚀 THINGS I'VE BUILT
+
+<details>
+<summary><b>🔋 Low-Power MAC — RTL → GDSII</b></summary>
 <br/>
 
-## 🧠 What I Actually Know How to Use
+A 32-bit MAC/accumulator taken through a complete RTL-to-GDSII flow on the open-source SkyWater Sky130 PDK.
 
-<div align="center">
+**Highlights:** SystemVerilog • Yosys • Physical Design • STA • CTS • DRC • LVS
 
-**Digital / Physical Design**
-<br/>
-<img src="https://img.shields.io/badge/SystemVerilog-002244?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Yosys-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenROAD-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Magic-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Netgen-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KLayout-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SkyWater%20Sky130-B91C1C?style=for-the-badge"/>
-
-<br/><br/>
-
-**Analog / Mixed-Signal**
-<br/>
-<img src="https://img.shields.io/badge/Cadence%20Virtuoso-2E5090?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spectre-2E5090?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SPICE-2E5090?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Verilog--A-2E5090?style=for-the-badge"/>
-
-<br/><br/>
-
-**Scripting & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tcl-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
-
-</div>
-
-<br/>
-
-## 📈 Where My Skill Bars Actually Are
-
-```
-Digital Physical Design    ▓▓▓▓▓▓▓▓▓░  90%
-Analog / Mixed-Signal      ▓▓▓▓▓▓▓▓░░  80%
-RTL & Verification         ▓▓▓▓▓▓▓▓░░  80%
-EDA Scripting (Tcl/Python) ▓▓▓▓▓▓▓░░░  70%
-Patience with Vendor Tools ▓▓▓▓▓▓▓▓▓▓  110% (had to add an extra bar)
+```text
+100 MHz  |  5,062 µm²  |  16% utilization
+0.864 mW |  0 DRC      |  431/431 LVS matched
 ```
 
+<a href="https://github.com/Venom893/Low-Power-MAC-Sky130--RTL-to-GDSII">
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</details>
+
+<details>
+<summary><b>⚡ GGNMOS ESD Protection Cell</b></summary>
 <br/>
 
-## 🏆 Certifications
+Transistor-level ESD protection exploration on a **90nm gpdk090 PDK**.
+
+**Highlights:** Cadence Virtuoso • Spectre • SPICE • Verilog-A • Snapback • HBM
+
+```text
+Vt1 = 9.0 V @ 3.98 mA
+Vh  = 5.35 V @ 20.4 mA
+HBM = 2 kV
+```
+
+</details>
+
+<details>
+<summary><b>🌐 13-Bus DG-Integrated Microgrid</b></summary>
+<br/>
+
+MATLAB/Simulink study of fault behavior in a distributed-generation microgrid.
+
+**Explored:** LG • LL • LLG • ABG faults • 3-phase analysis • protection coordination
+
+</details>
+
+<br>
 
 <div align="center">
 
-| | |
-|---|---|
-| 🎓 | **VLSI – System on Chip (SoC) Design** — Maven Silicon |
-| 🎓 | **VLSI Design Course** — Simplilearn SkillUP |
-| 🎓 | **Career Essentials in Generative AI by Microsoft and LinkedIn** — Microsoft |
+<a href="https://github.com/Venom893/Low-Power-MAC-Sky130--RTL-to-GDSII">
+<img src="https://img.shields.io/badge/⭐%20STAR%20THE%20FLAGSHIP%20PROJECT-FFB000?style=for-the-badge&logoColor=black" />
+</a>
+<a href="https://github.com/Venom893?tab=repositories">
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20REPOSITORIES-2563EB?style=for-the-badge" />
+</a>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
+
+## 🏆 CERTIFICATIONS
+
+🎓 **Maven Silicon** — VLSI – System on Chip (SoC) Design
+📘 **Simplilearn SkillUp** — VLSI Design Course
+🤖 **Microsoft + LinkedIn** — Career Essentials in Generative AI
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
+
+## 🎮 A LITTLE MORE ABOUT ME
+
+<details>
+<summary>👀 Click to reveal</summary>
+<br>
+
+```text
+🔬 I enjoy transistor-level thinking
+⚡ I like understanding what happens underneath an abstraction
+🧩 RTL-to-GDSII is where hardware gets especially interesting
+🧪 Debugging simulations is strangely satisfying
+💻 I also enjoy solving engineering problems with software
+📚 Always learning something new
+🚀 Long-term goal: build better silicon
+```
+
+</details>
+
+<details>
+<summary>🧭 Where I'm heading</summary>
+<br>
+
+**Electrical Engineering → VLSI → SoC / IC Design → Silicon**
+
+I'm building depth across multiple levels of the hardware stack rather than treating each stage as an isolated tool.
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
+
+## 🤝 LET'S CONNECT
 
 <div align="center">
 
-### 💭 If you made it this far...
+If **VLSI • SoC • IC Design • RTL • Physical Design • Semiconductor Technology**
+sounds interesting, let's talk. ⚡
 
-You've now spent longer reading this profile than most recruiters spend on a resume — thank you for that. If you're hiring for a Physical Design, RTL, or Analog/Mixed-Signal role and want to talk chips, my inbox is open. ⚡
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=120&section=footer" width="100%"/>
+<a href="https://github.com/Venom893">
+<img src="https://img.shields.io/badge/GITHUB-MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/yuvraj-mishra-2u">
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:yuvimishra5154@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+### ⚡ Think → Design → Simulate → Verify → Implement → Silicon
+
+<sub>Built with ❤️, way too much coffee, and a healthy respect for what OpenROAD logs can teach you at 2 AM.</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=110&section=footer" width="100%"/>
