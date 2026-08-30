@@ -16,6 +16,25 @@
 
 </div>
 
+```text
+[SYSTEM BOOT] Initializing profile.exe ...
+[ OK ] Loading engineer_profile.dat
+[ OK ] Mounting /dev/silicon
+[ OK ] Compiling curiosity.c ......... done
+[ OK ] Linking experience.o + caffeine.o
+> Welcome, visitor. This profile is interactive — pick a path below.
+```
+
+<div align="center">
+
+<a href="#-whoami"><img src="https://img.shields.io/badge/▶%20WHOAMI-0F172A?style=for-the-badge"></a>
+<a href="#-stat-sheet--my-toolbox"><img src="https://img.shields.io/badge/🧬%20STAT%20SHEET-0F172A?style=for-the-badge"></a>
+<a href="#-quest-log--things-ive-built"><img src="https://img.shields.io/badge/🗺️%20QUEST%20LOG-0F172A?style=for-the-badge"></a>
+<a href="#-achievements-unlocked"><img src="https://img.shields.io/badge/🏅%20ACHIEVEMENTS-0F172A?style=for-the-badge"></a>
+<a href="#-establish-connection"><img src="https://img.shields.io/badge/📡%20CONNECT-0F172A?style=for-the-badge"></a>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
 ## ⚡ `whoami`
@@ -29,6 +48,20 @@ Circuit → RTL → Verify → Synthesize → Place & Route → GDSII → Silico
 ```
 
 🧠 **My rule:** don't just make it work — understand *why* it works.
+
+<details>
+<summary>🪪 <b>Character Sheet</b> — click to view stats</summary>
+<br/>
+
+| | |
+|---|---|
+| **Class** | Digital ASIC Physical Design / Analog-Mixed-Signal IC Engineer |
+| **Specialization** | RTL-to-GDSII · ESD Protection Circuits |
+| **Current Level** | Fresher — XP maxed on curiosity, ready to grind on real silicon |
+| **Weapon of Choice** | A terminal with 40 tabs open |
+| **Status Effect** | Permanently caffeinated |
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
@@ -61,7 +94,7 @@ Circuit → RTL → Verify → Synthesize → Place & Route → GDSII → Silico
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
-## 🛠️ MY TOOLBOX
+## 🧬 STAT SHEET — My Toolbox
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,matlab,linux,docker,git,github&perline=9" />
@@ -81,12 +114,20 @@ Circuit → RTL → Verify → Synthesize → Place & Route → GDSII → Silico
 <img src="https://img.shields.io/badge/SkyWater%20Sky130-B91C1C?style=for-the-badge" />
 </p>
 
+```text
+Digital Physical Design    ▓▓▓▓▓▓▓▓▓░  90 XP
+Analog / Mixed-Signal      ▓▓▓▓▓▓▓▓░░  80 XP
+RTL & Verification         ▓▓▓▓▓▓▓▓░░  80 XP
+EDA Scripting (Tcl/Python) ▓▓▓▓▓▓▓░░░  70 XP
+Patience w/ Vendor Tools   ▓▓▓▓▓▓▓▓▓▓  MAX (had to add an extra bar)
+```
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
-## 🚀 THINGS I'VE BUILT
+## 🗺️ QUEST LOG — Things I've Built
 
 <details>
-<summary><b>🔋 Low-Power MAC — RTL → GDSII</b></summary>
+<summary><b>🔋 Quest 1 — Low-Power MAC — RTL → GDSII</b> &nbsp; <i>[COMPLETED ✅]</i></summary>
 <br/>
 
 A 32-bit MAC/accumulator taken through a complete RTL-to-GDSII flow on the open-source SkyWater Sky130 PDK.
@@ -105,7 +146,7 @@ A 32-bit MAC/accumulator taken through a complete RTL-to-GDSII flow on the open-
 </details>
 
 <details>
-<summary><b>⚡ GGNMOS ESD Protection Cell</b></summary>
+<summary><b>⚡ Quest 2 — GGNMOS ESD Protection Cell</b> &nbsp; <i>[COMPLETED ✅]</i></summary>
 <br/>
 
 Transistor-level ESD protection exploration on a **90nm gpdk090 PDK**.
@@ -118,15 +159,23 @@ Vh  = 5.35 V @ 20.4 mA
 HBM = 2 kV
 ```
 
+<a href="https://github.com/Venom893/GGNMOS-ESD-Protection-Cadence">
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 </details>
 
 <details>
-<summary><b>🌐 13-Bus DG-Integrated Microgrid</b></summary>
+<summary><b>🌐 Quest 3 — 13-Bus DG-Integrated Microgrid</b> &nbsp; <i>[COMPLETED ✅]</i></summary>
 <br/>
 
 MATLAB/Simulink study of fault behavior in a distributed-generation microgrid.
 
 **Explored:** LG • LL • LLG • ABG faults • 3-phase analysis • protection coordination
+
+<a href="https://github.com/Venom893/DG-Fault-Detection">
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </details>
 
@@ -145,7 +194,7 @@ MATLAB/Simulink study of fault behavior in a distributed-generation microgrid.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
-## 🏆 CERTIFICATIONS
+## 🏅 ACHIEVEMENTS UNLOCKED
 
 🎓 **Maven Silicon** — VLSI – System on Chip (SoC) Design
 📘 **Simplilearn SkillUp** — VLSI Design Course
@@ -156,7 +205,7 @@ MATLAB/Simulink study of fault behavior in a distributed-generation microgrid.
 ## 🎮 A LITTLE MORE ABOUT ME
 
 <details>
-<summary>👀 Click to reveal</summary>
+<summary>👀 Click to reveal — side quests</summary>
 <br>
 
 ```text
@@ -172,7 +221,7 @@ MATLAB/Simulink study of fault behavior in a distributed-generation microgrid.
 </details>
 
 <details>
-<summary>🧭 Where I'm heading</summary>
+<summary>🧭 Where I'm heading — the next chapter</summary>
 <br>
 
 **Electrical Engineering → VLSI → SoC / IC Design → Silicon**
@@ -183,7 +232,7 @@ I'm building depth across multiple levels of the hardware stack rather than trea
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header" width="100%"/>
 
-## 🤝 LET'S CONNECT
+## 📡 ESTABLISH CONNECTION
 
 <div align="center">
 
